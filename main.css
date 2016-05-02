@@ -1,0 +1,42 @@
+body {
+  font-family: 'Oswald', sans-serif;
+  background-color: #BF945B;
+}
+.jumbotron {
+  background-image: url("https://scontent.xx.fbcdn.net/v/t1.0-9/11058236_10153617085696233_7512149617251833864_n.jpg?oh=893b76e0014798b55353386374144d11&oe=579EEBEC");
+  padding: 40%;
+      background-repeat: no-repeat;
+      background-size: 1200px 1400px;
+      width: 100%;
+      margin-top: 30px;
+      background-attachment: fixed;
+      background-position:  center -50px;
+}
+.jumbotron h1 {
+    position: absolute;
+    left:20;
+    margin-top: -10px;
+    padding-left: 50px;
+    color: #F7FAFE;
+}
+
+footer {
+  background-color: #FFEFEF;
+  position: absolute;
+  width: 95%;
+  height: auto;
+}
+footer ul li {
+  display: inline-block;
+  list-style: none;
+  padding: 1%;
+  float: right;
+}
+footer p {
+  float: left;
+  padding: 1%;
+}
+footer a, footer p {
+  color: #FF7F11;
+  vertical-align: middle;
+}
